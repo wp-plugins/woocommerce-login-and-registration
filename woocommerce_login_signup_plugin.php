@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Woocommerce Login / Signup
+Plugin Name: WooCommerce Product Custom Options Lite
 Plugin URI: http://phoeniixx.com/
-Description: A social login plugin.
+Description: WooCommerce Product Custom Options Lite plugin is designed to give your Ecommerce website the space to add customized options for your products.
 Author: Phoeniixx Team
 Author URI: http://phoeniixx.com/
 Version: 1.0
