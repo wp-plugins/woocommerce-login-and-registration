@@ -745,12 +745,12 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 	
 	add_filter('widget_text', 'do_shortcode');
 	
-    function add_menu1()
+	function ph_login_signup_add_menu()
 	{
 		
 		$page_title='Login/Signup Setting';
 		
-		$menu_title='WooCommerce Login/Signup';
+		$menu_title='Login/Signup';
 		
 		$capability='manage_options';
 		
@@ -758,15 +758,17 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		
 		$function='settings_wp_login_signup';
 		
-		$icon_url='dashicons-media-document';
-		
-		$position='29';
         
-		add_menu_page( $page_title, $menu_title, $capability, $menu_slug,$function , $icon_url, $position );
-    
+		//add_menu_page( $page_title, $menu_title, $capability, $menu_slug,$function , $icon_url, $position );
+		
+		add_menu_page( 'phoeniixx', __( 'Phoeniixx', 'phe' ), 'nosuchcapability', 'phoeniixx', NULL, plugin_dir_url( __FILE__ ).'assets/img/logo-wp.png', 57 );
+        
+		add_submenu_page( 'phoeniixx', $page_title, $menu_title, $capability, $menu_slug, $function );
+
 	}
-    add_action("admin_menu","add_menu1");
-    
+	
+    add_action("admin_menu","ph_login_signup_add_menu",99);
+	
     function settings_wp_login_signup()
 	{ 
         
