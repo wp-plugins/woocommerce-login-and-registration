@@ -68,7 +68,7 @@ This plugin gives you the freedom to create a login/signup page or popup for bot
 3. This screenshot shows how Login form looks on your site.
 4. This screenshot shows how Signup form looks on your site.
 5. This screenshot shows the popup for Login form.
-
+6. This screenshot shows the popup for Register form.
 
 
 == Changelog ==
