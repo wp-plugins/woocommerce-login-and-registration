@@ -34,7 +34,7 @@ This plugin gives you the freedom to create a login/signup page or popup for bot
 
 
 
-**Support link** – [Support](http://www.phoeniixx.com/support)
+**Support link** - [Support](http://www.phoeniixx.com/support)
 
 
 == Installation ==
