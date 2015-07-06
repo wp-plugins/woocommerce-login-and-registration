@@ -55,9 +55,6 @@ This plugin gives you the freedom to create a login/signup page or popup for bot
 
 **Ans.** Yes this plugin works with the current WooCommerce Version.
 
-* Do I get access to plugin upgrades after I purchase the premium version?
-
-**Ans.** Yes you will get access to all the upgrades once you purchase the premium version of this plugin.
 
 
 
