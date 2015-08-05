@@ -1,5 +1,5 @@
 === Woocommerce Login / Signup Lite  ===
-Contributors: Phoeniixx Team
+Contributors: Phoeniixx
 Tags: phoeniixx, woocommerce, woocommerce plugins, login, signup, register,signin plugin, page header, shortcode,woocommerce login / signup lite,woocommerce login signup,woocommerce login,woocommerce signup
 Requires at least: 4.0
 Tested up to: 4.2.2

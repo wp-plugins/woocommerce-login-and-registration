@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce Login / Signup Lite
 Plugin URI: http://phoeniixx.com/
 Description: With this free Sign Up/ Login plugin, you can easily create a sign up and login process for your ecommerce site.
-Author: Phoeniixx Team
+Author: Phoeniixx
 Author URI: http://phoeniixx.com/
 Version: 1.0
 */
